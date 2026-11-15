@@ -1,0 +1,20 @@
+{
+  "name": "Lattix",
+  "url": "https://www.lattix.app/",
+  "description": "Window manager that opens apps and files in preset layouts across monitors. Save your workspace once and reopen it from the menu bar or with hotkeys",
+  "category": "productivity",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "50% off one-time purchase with code BLACKFRIDAY26",
+  "code": "BLACKFRIDAY26",
+  "pricing": "one-time",
+  "price": {
+    "regular": 19.99,
+    "sale": 9.99,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2026-11-15",
+  "endDate": "2026-12-02"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Muffle",
+  "url": "https://www.getmuffle.com/",
+  "description": "Blur and dim everything except the active window to reduce distractions on your Mac",
+  "category": "productivity",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "50% off one-time purchase with code BLACKFRIDAY26",
+  "code": "BLACKFRIDAY26",
+  "pricing": "one-time",
+  "price": {
+    "regular": 7.99,
+    "sale": 3.99,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2026-11-15",
+  "endDate": "2026-12-02"
+}
