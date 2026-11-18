@@ -89,6 +89,8 @@ npm run validate
 
 ## Pull requests
 
-- At most two deals per pull request. The check fails if a pull request adds more, so open
-  another pull request for the rest.
+- At most two deals per maker each year. A maker is the person or team behind the products, and
+  this counts across all their pull requests and accounts. Splitting deals over several pull
+  requests doesn't raise the limit: extra deals are not merged.
+- At most two deals per pull request. The check fails if a pull request adds more.
 - Fill in the pull request template.
