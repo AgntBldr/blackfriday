@@ -1,0 +1,14 @@
+{
+  "name": "PrompterCam",
+  "url": "https://apps.apple.com/us/app/promptercam-teleprompter/id6798283438",
+  "description": "Teleprompter for iPhone and iPad that also edits and captions your video, so a script becomes a finished post in one app",
+  "category": "media",
+  "platforms": ["ios", "ipad"],
+  "deal": "33% off: $14.99 → $9.99, one-time purchase, no code needed",
+  "pricing": "one-time",
+  "price": { "regular": 14.99, "sale": 9.99, "currency": "USD" },
+  "discount": 33,
+  "startDate": "2026-11-25",
+  "endDate": "2026-12-01",
+  "icon": "https://raw.githubusercontent.com/Alan1256/promptercamassets/refs/heads/main/App-Icon.png"
+}
