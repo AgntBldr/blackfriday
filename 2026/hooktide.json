@@ -1,0 +1,15 @@
+{
+  "name": "HookTide",
+  "url": "https://hooktide.io/pricing",
+  "description": "AI that learns your LinkedIn writing voice and drafts posts, comments and DMs that sound like you",
+  "category": "marketing",
+  "platforms": ["web"],
+  "deal": "50% off the first year of Pipeline yearly with code BLACKFRIDAY50",
+  "code": "BLACKFRIDAY50",
+  "pricing": "subscription",
+  "price": { "regular": 588, "sale": 294, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-23",
+  "endDate": "2026-12-01",
+  "icon": "https://hooktide.io/hooktide-icon.png"
+}
