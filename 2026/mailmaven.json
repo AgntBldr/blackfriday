@@ -1,0 +1,14 @@
+{
+  "name": "MailMaven",
+  "url": "https://smallcubed.com/pricing",
+  "description": "Manage email professionally and  effectively by tagging messages, automating tasks, customizing templates and  signatures and integrating with AI via MCP.",
+  "category": "productivity",
+  "platforms": ["mac"],
+  "deal": "50% off on website",
+  "pricing": "one-time",
+  "price": { "regular": 75.00, "sale": 37.50, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-26",
+  "endDate": "2026-12-01",
+  "icon": "https://s3.amazonaws.com/media.smallcubed.com/images/maven/icons/MavenIconTahoe_256.png"
+}
