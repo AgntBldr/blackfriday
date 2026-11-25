@@ -1,0 +1,14 @@
+{
+  "name": "intropi: Hypnosis & Meditation",
+  "url": "https://intropi.app/black-friday",
+  "description": "Self-hypnosis and guided meditation for sleep, focus and habits, with 1,494 sessions, 114 audio journeys and sessions written from your own words",
+  "category": "lifestyle",
+  "platforms": ["ios", "android", "web"],
+  "deal": "Premium Lifetime $89.99, no code (was $189.99; $149.99 on Android). US stores and web",
+  "pricing": "lifetime",
+  "price": { "regular": 189.99, "sale": 89.99, "currency": "USD" },
+  "discount": 53,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01",
+  "icon": "https://intropi.app/assets/img/intropi-app-icon-512.png"
+}
