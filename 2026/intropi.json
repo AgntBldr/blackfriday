@@ -8,7 +8,7 @@
   "pricing": "lifetime",
   "price": { "regular": 189.99, "sale": 89.99, "currency": "USD" },
   "discount": 53,
-  "startDate": "2026-11-27",
+  "startDate": "2026-11-25",
   "endDate": "2026-12-01",
   "icon": "https://intropi.app/assets/img/intropi-app-icon-512.png"
 }
